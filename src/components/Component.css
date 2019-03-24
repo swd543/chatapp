@@ -1,0 +1,12 @@
+.Component {
+  min-height: 30vh;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+  padding: 5px;
+  border-radius: 10px;
+}
